@@ -19,7 +19,7 @@ from pyrogram.errors.exceptions.bad_request_400 import PeerIdInvalid
 
 
 Bot = Client(
-    "Song Downloader Bot",
+    "karabakh song Bot",
     bot_token = os.environ["BOT_TOKEN"],
     api_id = int(os.environ["API_ID"]),
     api_hash = os.environ["API_HASH"]
