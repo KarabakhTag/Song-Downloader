@@ -1,5 +1,5 @@
 {
-    "name": "Song-Downloader-Bot",
+    "name": "KarabakhSongbot",
     "description": "A BOT TO DOWNLOAD MUSIC FROM YOUTUBE.",
     "logo": "https://telegra.ph/file/745badebb188c6da28a67.jpg",
     "stack": "container",
@@ -11,7 +11,7 @@
     ],
     "website": "https://github.com/MR-JINN-OF-TG",
     "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot",
-    "success_url": "https://t.me/NAZRIYASUPPORT",
+    "success_url": "https://t.me/RiyaddBlog",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
@@ -35,7 +35,7 @@
         }, 
         "SUPPORT": {
             "description": "Your support chat Username Without @",
-            "value": "NAZRIYASUPPORT"
+            "value": "RiyaddBlog"
         }
     },
     "addons": [],
